@@ -35,3 +35,22 @@ Cette première section pose les bases du cours, avec une présentation des obje
 * 🔗 **[QCM Avancé - Module 1 : Introduction à l'OSINT](https://forms.office.com/e/8p36HJNNT7)**
 
 ---
+
+## 🛠️ Module 2 : Les outils et techniques de l'OSINT
+
+### 📖 Cours
+* 📄 **[Cours : Les outils et techniques de l'OSINT (PDF)](./Module_2/Cours_Module-2.pdf)**
+* 🎥 **[Cours Vidéo Part 1](https://www.youtube.com/watch?v=NJDnLKAuyw0)**
+* 🎥 **[Cours Vidéo Part 2](https://www.youtube.com/watch?v=4dwhhRvwyR0)**
+
+### 💻 Travaux Pratiques
+* 📄 **[Sujet du TP 2 (PDF)](./Module_2/TP2-Investigation-OSINT-Autonome.pdf)**
+
+### 🌍 Challenge GEOINT
+* 📍 **[Trouver l'endroit précis d'une prise de photographie](https://www.youtube.com/watch?v=ttmFNu7MCnU)**
+* ⏱️ **[Trouver l'horaire d'une prise de photographie](https://www.youtube.com/watch?v=4R0e9IT7tKM)**
+
+### 📝 Questionnaire à Choix Multiples
+* 🔗 **[QCM - Module 2 : Techniques et outils OSINT](https://forms.office.com/e/H0LQmWCQgR)**
+
+---
