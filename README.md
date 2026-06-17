@@ -9,7 +9,7 @@ Bienvenue sur l'espace de ce cours dédié à l'Open Source Intelligence (OSINT)
 Cette première section pose les bases du cours, avec une présentation des objectifs, du contexte de mise en situation et des ressources documentaires fondamentales.
 
 * 🎥 **[Vidéo d'Introduction](https://www.youtube.com/watch?v=F6FFahP0Byg)**
-* 📄 **[Accroche du cours (PDF)](./Introduction/Accroche-L’OSINT, l’e-réputation et les moyens de protection des traces numériques.pdf)**
+* 📄 **[Accroche du cours (PDF)](./Introduction/Accroche-L_OSINT_l_e-réputation_et_les_moyens_de_protection_des_traces_numériques.pdf)**
 * 📄 **[Prérequis et Scénarisation (PDF)](./Introduction/Prerequis_et_scenarisation.pdf)**
 * 📚 **[Bibliographie (PDF)](./Introduction/Bibliographie_OSINT.pdf)**
 
