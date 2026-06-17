@@ -15,5 +15,23 @@ Cette première section pose les bases du cours, avec une présentation des obje
 
 ---
 
-## 📂 Modules suivants...
-*(Les prochains modules seront ajoutés ici au fur et à mesure)*
+## 🕵️‍♂️ Module 1 : Introduction à l'OSINT
+
+### 📖 Cours
+* 📄 **[Cours : Introduction à l'OSINT (PDF)](./Module_1/Cours_Module_1.pdf)**
+* 🎥 **[Cours Vidéo](https://www.youtube.com/watch?v=mNspfZHjQuo)**
+
+**Représentation de l'OSINT :**  
+![Schéma de représentation de l'OSINT](./Module_1/Représentation_OSINT.png)
+
+### 💼 Étude de cas
+* 🔗 **[L'affaire SILK ROAD](https://www.youtube.com/watch?v=5jMP3RVm-kg)**
+
+### 🛠️ Travaux Pratiques
+* 📄 **[Sujet du TP 1 (PDF)](./Module_1/TP1_Initiation_OSINT_Google_Dorks_WHOIS.pdf)**
+
+### 📝 Questionnaires à Choix Multiples
+* 🔗 **[QCM - Module 1 : Introduction à l'OSINT](https://forms.office.com/e/dTMu8DrTAZ)**
+* 🔗 **[QCM Avancé - Module 1 : Introduction à l'OSINT](https://forms.office.com/e/8p36HJNNT7)**
+
+---
